@@ -1000,3 +1000,6 @@ if st.session_state.results_ready:
 
 else:
     st.info("Calcula primero para ver tablas y gráfico.")
+
+
+st.caption("SubMIP Tool v1.0.0 · Código: GitHub (Release v1.0.0)")
